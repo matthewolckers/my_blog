@@ -1,18 +1,17 @@
 # Site settings
-title: "Paper Jekyll Theme"
-description: > 
-  Write a description of your website here.
+title: "Matthew Olckers"
+description: >
+  This blog is a collection of my thoughts and tips. I hope you find something helpful.
 
-author: Johnny Appleseed
-email: johnny@appleseed.com
-twitter_username: _HairForceOne
-github_username: mkchoi212
+author: Matthew Olckers
+email: matthew [at] monash [dot] edu
+twitter_username:
+github_username: matthewolckers
 
-baseurl: "/paper-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "https://deadbeef.me" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://blog.matthewolckers.com" # the base hostname & protocol for your site
 
-google_analytics_id: UA-1111111111-1
-disqus_id:
+google_analytics_id: 
 
 # Build settings
 include: [_pages]
@@ -23,4 +22,3 @@ sass:
     style: compressed
 
 exclude: [vendor]
-
