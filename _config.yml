@@ -1,7 +1,7 @@
 # Site settings
 title: "Matthew Olckers"
 description: >
-  This blog is a collection of my thoughts and tips. I hope you find something helpful.
+  My thoughts and tips. I hope you find something helpful.
 
 author: Matthew Olckers
 email: matthew [at] monash [dot] edu
@@ -11,7 +11,7 @@ github_username: matthewolckers
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.matthewolckers.com" # the base hostname & protocol for your site
 
-google_analytics_id: 
+google_analytics_id:
 
 # Build settings
 include: [_pages]
