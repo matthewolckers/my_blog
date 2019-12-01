@@ -36,4 +36,4 @@ HEC Decision Sciences department has great researchers. The researchers I have e
 
 *Any other tips or advice?*
 
-Due to the above-mentioned obsession, I collected a lot of resources on PhD applications. You can find some links [here]({{ site.baseurl }}{% link _pages/links.md %}).
+Due to the above-mentioned obsession, I collected a lot of resources on PhD applications. You can find some links [here](https://www.matthewolckers.com/links/).
