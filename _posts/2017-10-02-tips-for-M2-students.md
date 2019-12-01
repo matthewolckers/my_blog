@@ -2,7 +2,8 @@
 layout: post
 title:  "Choosing M2 courses and PhD programs"
 date:   2017-10-02
-tags:
+description: "Advice for economics students in France thinking of continuing to a PhD."
+tags: tips
 ---
 
 A student who was in the microeconomics tutorial I taught last year asked a few questions about course choices in M2 (the second year of masters in France) and progression to a PhD.

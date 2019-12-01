@@ -2,7 +2,8 @@
 layout: post
 title:  "'Matching and Chatting' Ding & Schotter (2016)"
 date:   2017-01-25
-tags: economics summary
+description: "My second attempt at summarising a paper in a blog post."
+tags: summary
 ---
 
 Matching mechanisms, such as matching students to schools, is one of the most successful exports from microeconomic theory to public policy. These mechanisms can entice truthful revelation of preferences and result in efficient and stable outcomes. Efficient in the sense that there are no students who would agree to the move without making another student worse-off and stable in the sense that a student does not prefer to move to another school where there are open places, or this student has priority over another student already accepted to that school.

@@ -2,6 +2,8 @@
 layout: post
 title:  "Finding housing in Paris as a South African student"
 date:   2018-09-06
+description: "Housing options I encountered while living in Paris."
+tags: tips
 ---
 Finding housing in Paris is tough for locals. For South African students, it's a lottery. The South African student does not speak French, is unlikely to have a local garant, has no income in France and is only expected to stay in the country for a couple of years. Easy to see why landlords might choose someone else.
 

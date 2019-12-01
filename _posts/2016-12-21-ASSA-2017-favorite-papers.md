@@ -2,6 +2,8 @@
 layout: post
 title:  "My favorite papers at the ASSA Meeting 2017"
 date:   2016-12-21
+description: "I pick my favorite papers from one of the largest economics conferences in the world."
+tags: picks
 ---
 My studies started in South Africa and now continue in France. Until now, I was unaware of the supersize scale of the [ASSA Annual Meeting](https://www.aeaweb.org/conference/about) held every January in the United States. There are seminars on every topic in economics imaginable. The focus of this post is to cut down the hundreds of papers to my three favorite.
 

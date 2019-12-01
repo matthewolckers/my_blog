@@ -2,7 +2,8 @@
 layout: post
 title:  "Financial education: searching for key ingredients"
 date:   2017-02-13
-tags: summary economics financial literacy education
+description: "Thoughts on three review articles on financial education interventions."
+tags: summary
 ---
 People often make mistakes when managing their finances and choosing investments. Recently, economists have focussed on how financial education may help to improve decision making. A range of different financial education interventions have been tried and tested. Still, there is no perfect recipe. The perfect recipe may remain elusive, but, perhaps, we could identify the key ingredients. This blog post searches through recent literature reviews to find the key ingredients.
 

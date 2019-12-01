@@ -2,7 +2,8 @@
 layout: post
 title:  "'Decision making with naive advice' Schotter (2003)"
 date:   2017-01-26
-tags: economics summary
+description: "To give advice is to learn twice."
+tags: summary
 ---
 
 After summarizing a [recent paper]({{ site.baseurl }}{% link _posts/2017-01-25-ding-schotter-matching-and-chatting.md %}) on chatting in matching mechanisms, I decided to dig deeper into Andrew Schotter's research. ['Decision making with naive advice'](http://pubs.aeaweb.org/doi/10.1257/000282803321947047) (2003 AER) caught my eye. In light of all the behavioral economics books I have been reading, my hunch was that taking advice from friends would cause actions to diverge from the predictions of theory with rational agents (Econs as Richard Thaler calls them). Turns out that advice does the opposite. It helps people to act rationally.

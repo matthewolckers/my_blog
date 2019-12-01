@@ -2,7 +2,8 @@
 layout: post
 title:  "Some things never change"
 date:   2017-06-28
-tags:
+description: "Networking at conferences is awkward."
+tags: econlife
 ---
 At the end of spring this year I had the privilege of attending an international conference at my university, the Paris School of Economics. The organizers used their connections (and the diaspora of French economists) to put together a diverse and accomplished panel of professors. I felt privileged because there is little chance that this quality of conference would be held in my home country, South Africa.
 

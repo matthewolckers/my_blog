@@ -2,7 +2,8 @@
 layout: post
 title:  "Adam Smith is more than the 'invisible hand'"
 date:   2017-01-09
-tags:   book
+description: "Some quotes from The Wealth of Nations."
+tags:   quotes
 ---
 Feeling inspired by starting my PhD (and because the book is free on Kindle), I decided to read Adam Smith's *The Wealth of Nations*. I haven't finished it yet and I doubt I ever will. Even within the 20 percent of book I have read so far, Smith comes up with some gems that show he is more than just the 'invisible hand'.
 

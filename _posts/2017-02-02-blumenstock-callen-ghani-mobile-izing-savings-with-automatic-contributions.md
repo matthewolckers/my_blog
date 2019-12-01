@@ -2,8 +2,10 @@
 layout: post
 title:  "'Mobile-izing Saving with Automatic Contributions' Blumenstock, Callen & Ghani (2017)"
 date:   2017-02-02
-tags: economics summary
+description: "A field experiment in Afghanistan highlights the power of defaults."
+tags: summary
 ---
+
 Saving is tough. No matter how hard you try, there always seems to be nothing leftover at the end of the month. You need to trick yourself by hiding money away before it hits your bank account. Saving needs to be automatic, but which incentives are needed to start automatic contributions in the first place and which mechanisms explain sustained monthly saving? [Joshua Blumenstock](http://www.jblumenstock.com/), [Michael Callen](http://rady.ucsd.edu/faculty/directory/callen/) and [Tarek Ghani](https://sites.google.com/site/tghani/) use a [comprehensive field experiment](http://www.jblumenstock.com/files/papers/BCG-MPaz-2017-01.pdf) to answer these questions. Their analysis highlights the power of defaults.
 
 Before going into the details of the experiment, I would like to highlight the context of the study. The experiment was conducted with the employees of Roshan, Afghanistan's largest mobile phone operator.  Blumenstock, Callen and Ghani (2017) start the paper by sharing feedback from focus groups they ran before the start of the experiment. It is refreshing to hear the stories behind the data. Here is an excerpt:

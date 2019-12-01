@@ -2,6 +2,8 @@
 layout: post
 title:  "Networks conference at Vanderbilt"
 date:   2018-04-16
+description: "Papers which stood out to me at the annual networks conference."
+tags: picks
 ---
 
 In April I travelled to Nashville to attend a [conference](http://netsciecon2018.org/) on networks in economics. Researchers from many fields presented and the quality was extremely high. I made some notes on a few presentations that caught my attention.

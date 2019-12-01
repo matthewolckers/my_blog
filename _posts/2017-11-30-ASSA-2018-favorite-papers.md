@@ -2,6 +2,8 @@
 layout: post
 title:  "My favorite papers at the ASSA Meeting 2018"
 date:   2017-11-30
+description: "For the second year running, I pick my favorite papers from the ASSA meeting."
+tags: picks
 ---
 Last year, I trawled through the list of papers which were presented at the [ASSA Annual Meeting](https://www.aeaweb.org/conference/about) and [picked a few of my favorites]({{ site.baseurl }}{% post_url 2016-12-21-ASSA-2017-favorite-papers %}). It was interesting to look back on what caught my eye. I decided to do the same this year. Below are a selection of papers I find interesting from the hundreds of papers that will be presented in January.
 

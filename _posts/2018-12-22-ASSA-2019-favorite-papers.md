@@ -2,6 +2,8 @@
 layout: post
 title:  "My favorite papers at the ASSA Meeting 2019"
 date:   2018-12-22
+description: "For the third year running, I select my favorite papers."
+tags: picks
 ---
 I have started a tradition of selecting my favorite papers from the massive [ASSA Annual Meeting](https://www.aeaweb.org/conference/about). (Does three years make a tradition?) Here are my picks [from 2017]({{ site.baseurl }}{% post_url 2016-12-21-ASSA-2017-favorite-papers %}) and from [2018]({{ site.baseurl }}{% post_url 2017-11-30-ASSA-2018-favorite-papers %}). Given my research interests, I like most of the papers in the networks sessions ([here](https://www.aeaweb.org/conference/2019/preliminary/509), [here](https://www.aeaweb.org/conference/2019/preliminary/737), [here](https://www.aeaweb.org/conference/2019/preliminary/1035) and [here](https://www.aeaweb.org/conference/2019/preliminary/728)). Outside of networks, I found the following papers interesting.
 
