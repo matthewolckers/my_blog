@@ -2,7 +2,7 @@
 layout: post
 title: "Externalities and public goods in my neighborhood"
 date: 2016-12-21
-description: "The simple goal of providing safe transport can be complicated by individual incentives."
+description: "Where the taxis at?"
 tags: thoughts
 ---
 ![Ou Kaapse Weg, Cape Town](http://www.mountainpassessouthafrica.co.za/media/k2/items/cache/00d9b1e39f02d57be65ad2a9a6eaa3b8_XL.jpg)

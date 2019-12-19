@@ -2,7 +2,7 @@
 layout: post
 title:  "Choosing M2 courses and PhD programs"
 date:   2017-10-02
-description: "Advice for economics students in France thinking of continuing to a PhD."
+description: "Advice for students in France"
 tags: tips
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Networks conference at Vanderbilt"
 date:   2018-04-16
-description: "Papers which stood out to me at the annual networks conference."
+description: "Papers which caught my eye"
 tags: picks
 ---
 

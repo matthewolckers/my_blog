@@ -2,7 +2,7 @@
 layout: post
 title:  "'Decision making with naive advice' Schotter (2003)"
 date:   2017-01-26
-description: "To give advice is to learn twice."
+description: "To give advice is to learn twice"
 tags: summary
 ---
 

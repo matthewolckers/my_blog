@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "'Mobile-izing Saving with Automatic Contributions' Blumenstock, Callen & Ghani (2017)"
+title:  "Summary of Blumenstock, Callen & Ghani (2017)"
 date:   2017-02-02
-description: "A field experiment in Afghanistan highlights the power of defaults."
+description: "The power of defaults"
 tags: summary
 ---
 

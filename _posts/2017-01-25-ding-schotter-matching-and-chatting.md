@@ -2,7 +2,7 @@
 layout: post
 title:  "'Matching and Chatting' Ding & Schotter (2016)"
 date:   2017-01-25
-description: "My second attempt at summarising a paper in a blog post."
+description: "School choice in the lab"
 tags: summary
 ---
 

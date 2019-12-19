@@ -2,7 +2,7 @@
 layout: post
 title: My favorite papers at the ASSA Meeting 2019
 date: 2018-12-22
-description: For the third year running, I select my favorite papers.
+description: For the third year running, I select my favorite papers
 tags: picks
 
 ---

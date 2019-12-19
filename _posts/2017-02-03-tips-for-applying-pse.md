@@ -2,7 +2,7 @@
 layout: post
 title:  "Tips for applying to the PSE"
 date:   2017-02-03
-description: "Advice for students in France thinking of applying directly to the second-year masters programs at the Paris School of Economics."
+description: "Advice for M1 PSME students"
 tags: tips
 ---
 I am teaching assistant for an M1 microeconomics course at Paris 1 Panthéon Sorbonne. My students are now in the same position I was two years ago – faced with the prospect of applying to M2 programs. One avenue is the Paris School of Economics, which offers the [APE](http://www.parisschoolofeconomics.eu/en/teaching-and-students/masters-program/ape-analysis-policy-in-economics/) and [PPD](http://www.parisschoolofeconomics.eu/en/teaching-and-students/masters-program/ppd-public-policy-and-development/) programs. I completed [ETE](http://www.parisschoolofeconomics.eu/en/teaching-and-students/masters-program/ete-empirical-and-theoretical-economics/), which has since been swallowed up by APE. A few of my students have asked for advice on applying to the PSE, so I decided to collect my tips into a blog post. These views are my own and are not endorsed by the PSE.

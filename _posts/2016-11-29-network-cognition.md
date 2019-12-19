@@ -2,7 +2,7 @@
 layout: post
 title:  "“Network cognition” Dessí, Gallo & Goyal (2016)"
 date:   2016-11-29
-description: "My first attempt at summarizing a paper in a blog post."
+description: "Understanding networks in the lab"
 tags: summary
 ---
 Kevin Bryan, the author of one of my [favorite blogs](https://afinetheorem.wordpress.com/), writes summaries of recent research in his field. Before I get my own blogging voice, I will start as copycat and write some summaries of my own. My first summary is of a recent experiment in network cognition.

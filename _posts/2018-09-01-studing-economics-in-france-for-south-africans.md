@@ -2,7 +2,7 @@
 layout: post
 title:  "Studying economics in France"
 date:   2018-09-01
-description: "I encourage South African economics students to apply for masters and PhD programs in France."
+description: "Calling all Saffas"
 tags: tips
 ---
 
