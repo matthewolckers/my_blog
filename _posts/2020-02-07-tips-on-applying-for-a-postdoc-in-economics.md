@@ -6,10 +6,9 @@ description: Stuff I learnt from others
 tags: tips
 
 ---
-
 **Apply for 2+ year postdocs**
 
-One year postdocs are not going to benefit you or the people that hired you, unless you already have an assistant professorship position to go to after the postdoc. Make sure the postdoc is at least two years long. Otherise, as soon as you arrive, you will need to start looking for a new job.
+One year postdocs are not going to benefit you or the people that hired you, unless you already have an assistant professorship position to go to after the postdoc. Make sure the postdoc is at least two years long. Otherwise, as soon as you arrive, you will need to start looking for a new job.
 
 So you know what's out there, there are three kinds of postdocs:
 
@@ -17,7 +16,7 @@ So you know what's out there, there are three kinds of postdocs:
 * Joining a research team for a specific project. You are paid from a research grant to co-author papers on a specific topic.
 * One year postdocs given to job market stars before their assistant professorship position.
 
-Search for postdocs using the [AEA website](https://www.aeaweb.org/joe/listings) and [econjobmarket.org](https://econjobmarket.org/). Although these websites have been designed for candidates publically "on the market", you can still create a profile and apply for a postdocs without making your profile public. 
+Search for postdocs using the [AEA website](https://www.aeaweb.org/joe/listings) and [econjobmarket.org](https://econjobmarket.org/). Although these websites have been designed for candidates publically "on the market", you can still create a profile and apply for a postdocs without making your profile public.
 
 **Your "job market paper" can be co-authored with your supervisor**
 
@@ -25,21 +24,21 @@ The recruiters understand that you may be applying to their postdoc because you 
 
 **Networks matter a lot**
 
-The recruiting professors are far more likely to take a second look at your application if they know your supervisor or if someone they respect referred you. 
+The recruiting professors are far more likely to take a second look at your application if they know your supervisor or if someone they respect referred you.
 
 Your network might also know of postdocs which have not been advertised widely.
 
 **Reference letters seal the deal**
 
-You need your supervisors to write you strong reference letters. 
+You need your supervisors to write you strong reference letters.
 
-Give your supervisors enough time to write the reference letter and make sure they think a postdoc is a good idea for you. 
+Give your supervisors enough time to write the reference letter and make sure they think a postdoc is a good idea for you.
 
 You should however give anyone you are asking to write you a reference letter the opportunity to say no because a weak reference letter can strongly diminish your chances of getting a good position.
 
 **Preparation is a source of competitive advantage**
 
-Start thinking about postdocs in March if you plan to start to postdoc in September the following year.
+Start thinking about postdocs in March if you plan to start a postdoc in September the following year.
 
 PhD students often procrastinate. If you find the willpower to start early on an application, your chances will be much better than those who submit at the last minute.
 
