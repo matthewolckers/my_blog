@@ -8,7 +8,7 @@ tags: tips
 ---
 Dear X,
 
-I started reading through your article today and the first thing I noticed was the quality of the writing. I found the abstract and introduction very difficult to follow. The sentences are very long and each paragraph makes multiple points. I know you have a clear idea of what it all means but, as the reader, I was lost. To see your article from a reader's perspective, try putting some of the paragraphs into this tool: [http://www.hemingwayapp.com/](http://www.hemingwayapp.com/ "http://www.hemingwayapp.com/")
+I started reading through your article today and the first thing I noticed was the quality of the writing. I found the abstract and introduction very difficult to follow. The sentences are very long and each paragraph makes multiple points. I know you have a clear idea of what it all means but, as the reader, I was lost. To see your article from a reader's perspective, try putting some of the paragraphs into [this tool](http://www.hemingwayapp.com/). 
 
 I know re-writing is a chore but I think your article would benefit a great deal from a substantial rewrite. I am slightly obsessive with writing so please forgive me if this feedback is unwelcome.
 
