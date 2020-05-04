@@ -14,9 +14,9 @@ I know re-writing is a chore but I think your article would benefit a great deal
 
 My go to resources for writing are (in order of most frequent to least frequent use):
 
-* Varanya Chaubey’s [Little Book of Research Writing](http://www.econscribe.org/textbook)
-* Deirde McCloskey’s [Economical Writing](https://www.amazon.com/Economical-Writing-Second-Deirdre-McCloskey-ebook/dp/B0058V0M2W)
-* Keith Head's [Introduction Formula](http://blogs.ubc.ca/khead/research/research-advice/formula)
+* Varanya Chaubey’s [Little Book of Research Writing](http://www.econscribe.org/textbook),
+* Deirde McCloskey’s [Economical Writing](https://www.amazon.com/Economical-Writing-Second-Deirdre-McCloskey-ebook/dp/B0058V0M2W),
+* Keith Head's [Introduction Formula](http://blogs.ubc.ca/khead/research/research-advice/formula),
 * and other resources [listed here]().
 
 I am definitely not a writing expert. If you feel you need help then I suggest reaching out to a professional editor. I have had all my publications checked by a professional editor. It's worth the money!
