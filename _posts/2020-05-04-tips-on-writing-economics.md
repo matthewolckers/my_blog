@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Writing economics
-date: 2020-05-04 22:00:00 +0000
+date: 2020-05-03 22:00:00 +0000
 description: An email worthy of a blog post
 tags: tips
 
