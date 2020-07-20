@@ -6,9 +6,9 @@ description: Gold nuggets shared with me while meeting seminar speakers
 tags: tips
 
 ---
-I often meet with seminar speakers. At both PSE and Monash, I had the privilege of meeting amazing researchers, including faculty from MIT, Harvard, Stanford, Berkeley, etc. 
+I often meet with seminar speakers. At both PSE and Monash, I had the privilege of meeting amazing researchers, including faculty from MIT, Harvard, Stanford, Berkeley, etc.
 
-The researchers were very kind to share tips with me and here some "gold nuggets" I think all economics PhD students should know. 
+The researchers were very kind to share tips with me and here are some "gold nuggets" I think all economics PhD students should know.
 
 "Look towards local knowledge for inspiration. You know things about the world around you that nobody else knows."
 
